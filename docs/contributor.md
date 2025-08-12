@@ -1,3 +1,7 @@
+---
+title: "Atlas Docs | Contributor"
+layout: default
+---
 ## General
 If you want to contribute you have two ways to do so
 - If you just want to contribute one time to one of our projects fork it, commit on the fork and send a github pull request

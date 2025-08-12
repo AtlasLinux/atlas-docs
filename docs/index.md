@@ -1,3 +1,7 @@
+---
+title: "Atlas Docs"
+layout: default
+---
 # Atlas Documentation
 Documentation For Atlas Linux 
 ## General
