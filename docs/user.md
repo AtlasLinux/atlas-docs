@@ -1,5 +1,5 @@
 ---
-title: "Atlas Docs | User"
+title: "Atlas Docs - User"
 layout: default
 ---
 ## General

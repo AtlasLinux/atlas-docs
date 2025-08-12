@@ -1,5 +1,5 @@
 ---
-title: "Atlas Docs | Contributor"
+title: "Atlas Docs - Contributor"
 layout: default
 ---
 ## General

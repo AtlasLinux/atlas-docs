@@ -1,5 +1,5 @@
 ---
-title: "Atlas Docs"
+title: "Atlas Docs - Index"
 layout: default
 ---
 # Atlas Documentation
